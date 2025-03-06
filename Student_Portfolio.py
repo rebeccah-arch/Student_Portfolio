@@ -138,7 +138,7 @@ elif page == "Testimonials":
     st.title("🗣 Student Testimonials")
 
     st.subheader("💬Testimonial:")
-    st.write("*Brigitte is a brilliant problem solver! Her final year project is truly innovative. – Mclement*")
+    st.write("*Rebecca is a brilliant problem solver! Her final year project is truly innovative. – Mclement*")
 
     st.markdown("---")
     st.subheader("✍ Leave a Testimonial")
